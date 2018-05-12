@@ -1,0 +1,26 @@
+_repo: The-Act-Of-Incorporation-And-The-By-Laws-Of-The-Massachusetts-Homeopathic-Medical-Society_18589
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Massachusetts Homoeopathic Medical Society
+    gutenberg_agent_id: '8134'
+    url: http://www.gutenberg.org/2009/agents/8134
+description: ''
+gutenberg_issued: '2006-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts Homoeopathic Medical Society'
+- !lcc 'RX'
+- !lcsh 'Homeopathy -- Massachusetts -- Societies, etc.'
+title: The Act of Incorporation and the By-Laws of the Massachusetts Homeopathic Medical
+  Society
+url: http://www.gutenberg.org/ebooks/18589
